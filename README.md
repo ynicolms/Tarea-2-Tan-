@@ -5,3 +5,4 @@ Revisa atentamente el contenido del index, luego revisa las indicaciones del arc
 
 ![selectores-1](https://github.com/taniagd/Ejercicios-Intro-CSS-CH38/blob/main/assets/img/selectores-1.png)
 
+*Recuerda que debes aplicar las reglas de CSS en un archivo css externo. 
