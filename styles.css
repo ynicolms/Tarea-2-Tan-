@@ -22,3 +22,27 @@ background: #000000;
 Todos los elementos <span> contenidos en la clase "normal" 
 font-weight: bold;
 */ 
+
+/*(*) Selector para indicar que los cambios se haran a todo el documento*/
+*{ font-size: 16px; /*Tamaño de la fuente*/
+    font-family: Arial, Helvetica, sans-serif; /*Familia de la fuente*/
+}
+
+a{ color: #c30; /*Color en los enlaces de la pagina */
+}
+
+p{color: #555; /*Color en los parrafos de la pagina */
+}
+
+#primero p { color: #369; /*Color en los parrafos*/
+} 
+
+#primero em{ color: #00b;
+            background-color: #FFFFCC;
+}
+
+.especial {color: #FFFF00; 
+            background: #000000;
+}
+.normal span{font-weight: bold;
+}
